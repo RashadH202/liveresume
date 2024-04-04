@@ -67,12 +67,12 @@ position: relative;
 }
 
 .fdevelopment {
-    width: 90%;
+    width: 80%;
     background-color: aquamarine;
 }
 
 .bdevelopment {
-    width: 80%;
+    width: 70%;
     background-color: red;
 }
 
@@ -82,7 +82,7 @@ position: relative;
 }
 
 .infrastructure {
-    width: 50%;
+    width: 20%;
     background-color: limegreen;
 }
 

@@ -8,6 +8,7 @@ const Resume = () => {
       <h2 className='section__title'>Experience</h2>
       <div className='resume__container grid'>
         <div className='timeline grid'> 
+        Education
         {Data.map((val, id) => {
           if (val.category === "education") {
             return (
@@ -17,7 +18,8 @@ const Resume = () => {
         })}
         </div>
 
-        <div className='timeline grid'> 
+        <div className='timeline grid'>
+          Experince
         {Data.map((val, id) => {
           if (val.category === "experience") {
             return (

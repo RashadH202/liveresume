@@ -8,19 +8,19 @@ const About = () => {
     <section className='about container section' id ='about'>
       <h2 className='section__title'>About Me</h2>
       <div className='about__container grid'>
-        <img src={Me} alt='' className='about__img'/>
+        <img src='https://i.imgur.com/NXfnhso.jpeg' alt='' className='about__img'/>
             <div className="about__data grid">
                 <div className="about__info">
                   <p className="about__decription">Here's a copy of my Resume if you need it.</p>
-                  <a href='' className='btn'>Download CV</a>
-
+                  <a href='https://docs.google.com/document/d/15fL2s6UhyDJ77Oq_0kjFYF1nAQPbrmvq/edit?usp=sharing&ouid=104348918690743194215&rtpof=true&sd=true' className='btn'>Download CV</a>
+                  <p className="about__decription">Email: rashad.hammonds0114@gmail.com</p>
                 </div>
 
                 <div className='about__skills grid'>
                   <div className="skills__data">
                     <div className="skills__titles">
                       <h3 className='skills__name'>Front-End Web Development</h3>
-                      <span className='skills__number'>90%</span>
+                      <span className='skills__number'>80%</span>
                     </div>
 
                     <div className='skills__bar'>
@@ -33,7 +33,7 @@ const About = () => {
                   <div className="skills__data">
                     <div className="skills__titles">
                       <h3 className='skills__name'>Back-End Web Development</h3>
-                      <span className='skills__number'>80%</span>
+                      <span className='skills__number'>70%</span>
                     </div>
 
                     <div className='skills__bar'>
@@ -46,7 +46,7 @@ const About = () => {
                   <div className="skills__data">
                     <div className="skills__titles">
                       <h3 className='skills__name'>Infrastructure Tools</h3>
-                      <span className='skills__number'>50%</span>
+                      <span className='skills__number'>20%</span>
                     </div>
 
                     <div className='skills__bar'>

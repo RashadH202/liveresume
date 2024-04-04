@@ -30,7 +30,7 @@ const sendEmail = (e) => {
           <h3 className="contact__title">Let's Talk!</h3>
           <p className="contact__details">Let me know what you think in email if you need to!</p>
         </div>
-        <form ref={form} onSubmit={sendEmail} action="" className="contact__form">
+        {/* <form ref={form} onSubmit={sendEmail} action="" className="contact__form">
           <div className="contact__form-group">
             <div className="contact__form-div">
               <input type="text" className="contact__form-input" name="user_name" placeholder='Insert Your Name' required/>
@@ -48,7 +48,7 @@ const sendEmail = (e) => {
             </div>
 
             <button className="btn" type='submit'>Send</button>
-        </form>
+        </form> */}
       </div>
     </section>
   )

@@ -69,15 +69,15 @@
     opacity: 0;
 }
 .work__button {
-    color: #fff;
+    color: #000000;
     position: absolute;
     bottom: 1.5rem;
     left:1.5rem;
     font-size: var(--h3-font-size);
     display: block;
     background-color: powderblue;
-    height: 40px;
-    width: 40px;
+    height: 100px;
+    width: 300px;
     cursor: pointer;
     border-radius: 50%;
     text-align: center;

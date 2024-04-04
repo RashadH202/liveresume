@@ -11,7 +11,7 @@ const Data = [
         id: 1,
         category: "education",
         icon: "icon-graduation",
-        year: "2013-2014",
+        year: "2013-2017",
         title: "NOVA Community College",
         desc: "Associate's Degree - Information Technology"
     },
@@ -27,7 +27,7 @@ const Data = [
         id: 3,
         category: "experience",
         icon: "icon-briefcase",
-        year: "2018-Present",
+        year: "2018-2021",
         title: "CETAT",
         desc: "Assisted with the Cetat website updates to ensure that it was fully functional with no dead links, and updated content about what was going on for the students. Assisted in the creation of Class material for programming concepts such as HTML, CSS, and Javascript to support the instructors. Deployed windows operating systems using windows server, in order to reimage computers for new classes each Cycle.  Maintained and updated class Laptops functioning on Windows operating systems, to ensure students all students had access to them."
     },
