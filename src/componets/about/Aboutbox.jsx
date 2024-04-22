@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Aboutbox = () => {
   return (
@@ -7,7 +7,7 @@ const Aboutbox = () => {
             <i className='about__icon icon-fire'></i>
             <div>
                 <h3 className='about__title'>Projects Completed</h3>
-                <span className='about__subtitle'>1</span>
+                <span className='about__subtitle'>3</span>
             </div>
         </div>
 
@@ -30,4 +30,4 @@ const Aboutbox = () => {
   )
 }
 
-export default Aboutbox
+export default Aboutbox;

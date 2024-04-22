@@ -6,6 +6,7 @@ import Portfolio from './componets/portfolio/Portfolio';
 import Sidebar from './componets/sidebar/Sidebar';
 import Resume from './componets/resume/Resume';
 import Contact from './componets/contact/Contact';
+import Certifications from './componets/certifications/Certifications';
 function App() {
   return (
     <>
@@ -13,6 +14,7 @@ function App() {
     <div className='main'>
       <Home />
       <About />
+      <Certifications />
       <Portfolio />
       <Resume />
       {/* <Contact /> */}

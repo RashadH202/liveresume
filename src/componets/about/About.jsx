@@ -1,6 +1,5 @@
 import React from 'react'
 import './about.css'
-import Me from "../../assets/avatar-1.svg"
 import Aboutbox from './Aboutbox'
 
 const About = () => {

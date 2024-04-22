@@ -13,7 +13,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2013-2017",
         title: "NOVA Community College",
-        desc: "Associate's Degree - Information Technology"
+        desc: "Credits - Information Technology"
     },
     {
         id: 2,
