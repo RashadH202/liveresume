@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/liveresume/static/css/main.74dafc10.css",
-    "main.js": "/liveresume/static/js/main.92fd3e64.js",
+    "main.js": "/liveresume/static/js/main.84eaba0f.js",
     "static/media/avatar-1.svg": "/liveresume/static/media/avatar-1.9bd61775d357853cd5137125cb6ed013.svg",
     "static/media/dots-bg.svg": "/liveresume/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
     "index.html": "/liveresume/index.html",
     "static/media/logo-1.svg": "/liveresume/static/media/logo-1.20190dfa0a02baa9e6294256ead2350a.svg",
     "main.74dafc10.css.map": "/liveresume/static/css/main.74dafc10.css.map",
-    "main.92fd3e64.js.map": "/liveresume/static/js/main.92fd3e64.js.map"
+    "main.84eaba0f.js.map": "/liveresume/static/js/main.84eaba0f.js.map"
   },
   "entrypoints": [
     "static/css/main.74dafc10.css",
-    "static/js/main.92fd3e64.js"
+    "static/js/main.84eaba0f.js"
   ]
 }
