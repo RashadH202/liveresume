@@ -23,7 +23,7 @@ const Aboutbox = () => {
             <i className='about__icon icon-trophy'></i>
             <div>
                 <h3 className='about__title'>Certifications </h3>
-                <span className='about__subtitle'>0</span>
+                <span className='about__subtitle'>1</span>
             </div>
         </div>
     </div>
