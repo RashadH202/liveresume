@@ -11,7 +11,7 @@ const About = () => {
             <div className="about__data grid">
                 <div className="about__info">
                   <p className="about__decription">Here's a copy of my Resume if you need it.</p>
-                  <a href='https://docs.google.com/document/d/15fL2s6UhyDJ77Oq_0kjFYF1nAQPbrmvq/edit?usp=sharing&ouid=104348918690743194215&rtpof=true&sd=true' className='btn'>Download CV</a>
+                  <a href='https://docs.google.com/document/d/1RntHCl6_nXfa2RgD_WziG9KMr-40CQdT/edit?usp=drive_link&ouid=104348918690743194215&rtpof=true&sd=true' className='btn'>Download CV</a>
                   <p className="about__decription">Email: rashad.hammonds0114@gmail.com</p>
                 </div>
 
