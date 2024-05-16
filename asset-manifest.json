@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/liveresume/static/css/main.f2519cec.css",
-    "main.js": "/liveresume/static/js/main.261f888f.js",
+    "main.js": "/liveresume/static/js/main.5b9e64d6.js",
     "index.html": "/liveresume/index.html",
     "main.f2519cec.css.map": "/liveresume/static/css/main.f2519cec.css.map",
-    "main.261f888f.js.map": "/liveresume/static/js/main.261f888f.js.map"
+    "main.5b9e64d6.js.map": "/liveresume/static/js/main.5b9e64d6.js.map"
   },
   "entrypoints": [
     "static/css/main.f2519cec.css",
-    "static/js/main.261f888f.js"
+    "static/js/main.5b9e64d6.js"
   ]
 }
