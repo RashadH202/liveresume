@@ -5,6 +5,12 @@ const Menu = [
         title: "Amazon Web Serivces Practice Test",
         category: "CRUD"
     },
+    {
+        image: 'https://imgur.com/a/eoKmK3F',
+        link: 'https://rashadh202.github.io/amplify-petstore/',
+        title: "Amazon Web Serivces Practice Test",
+        category: "Challenge"
+    },
 
 ]
 

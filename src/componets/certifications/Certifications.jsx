@@ -20,7 +20,7 @@ const Certifications = () => {
       <div className='work__filters'>
         <span className='work__item' onClick={()=> setItems(Menu)}>Everything</span>
         <span className='work__item' onClick={()=> filterItem("AWS")}>AWS</span>
-        <span className='work__item' onClick={()=> filterItem("Oracle")}>Udemy</span>
+        <span className='work__item' onClick={()=> filterItem("Udemy")}>Udemy</span>
         <span className='work__item' onClick={()=> filterItem("Google")}>Google</span>
         <span className='work__item' onClick={()=> filterItem("Other")}>Other</span>
       </div>
