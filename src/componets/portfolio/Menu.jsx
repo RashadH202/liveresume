@@ -9,7 +9,7 @@ const Menu = [
         image: 'https://i.imgur.com/MkxuKpS.jpg',
         link: 'https://rashadh202.github.io/amplify-petstore/',
         title: "Amplify Petstore",
-        category: "Challenge"
+        category: "Creative"
     },
 
 ]
