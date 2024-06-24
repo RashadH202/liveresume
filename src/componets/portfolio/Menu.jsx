@@ -8,7 +8,7 @@ const Menu = [
     {
         image: 'https://imgur.com/a/eoKmK3F',
         link: 'https://rashadh202.github.io/amplify-petstore/',
-        title: "Amazon Web Serivces Practice Test",
+        title: "Amplify Petstore",
         category: "Challenge"
     },
 
