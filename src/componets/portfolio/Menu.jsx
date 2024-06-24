@@ -6,7 +6,7 @@ const Menu = [
         category: "CRUD"
     },
     {
-        image: 'https://imgur.com/a/eoKmK3F',
+        image: 'https://i.imgur.com/MkxuKpS.jpg',
         link: 'https://rashadh202.github.io/amplify-petstore/',
         title: "Amplify Petstore",
         category: "Challenge"
