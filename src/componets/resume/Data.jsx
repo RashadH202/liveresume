@@ -13,7 +13,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2013-2017",
         title: "NOVA Community College",
-        desc: "Credits - Information Technology"
+        desc: "Information Technology"
     },
     {
         id: 2,
@@ -22,31 +22,37 @@ const Data = [
         year: "2013-2014",
         title: "Year Up",
         desc: "Information Technology/Communications Certificate"
-    },
+    },K
     {
         id: 3,
         category: "experience",
         icon: "icon-briefcase",
         year: "2018-2021",
         title: "CETAT",
-        desc: "Assisted with the Cetat website updates to ensure that it was fully functional with no dead links, and updated content about what was going on for the students. Assisted in the creation of Class material for programming concepts such as HTML, CSS, and Javascript to support the instructors. Deployed windows operating systems using windows server, in order to reimage computers for new classes each Cycle.  Maintained and updated class Laptops functioning on Windows operating systems, to ensure students all students had access to them."
+        desc: "Supported IT infrastructure operations, including endpoint systems, OS deployment, and system performance optimization, Managed and tracked support tickets and development tasks using Jira, ensuring timely resolution and alignment with SLA targets. Integrated workflows between Zendesk and Jira to escalate bugs and feature requests from support to engineering teams. Administered endpoint lifecycle management, including hardware upgrades, system configuration, patching, and performance optimization  Improved ticket triaging process, reducing resolution time by identifying patterns and recurring issues. Provided remote technical support using TeamViewer to diagnose and resolve hardware, software, and network issues across Windows and macOS environments. Trained end-users on basic troubleshooting and system usage during live remote sessions, improving self-service capabilities."
     },
-    {
+     {
         id: 4,
         category: "experience",
         icon: "icon-briefcase",
-        year: "2014-2017",
-        title: "Software Development Teaching Assistant ",
-        desc: "●	Taught HTML, CSS, and JavaScript to classes of 20+ students, to deliver basic understanding of Front-End Web Development skills and fundamentals. Developed curriculum for students including assignments, lectures, hands on, and resource materials for HTML, CSS, JavaScript, and Java. Led study group sessions for topics such as HTML, CSS, JavaScript, Bootstrap, Java, and other frameworks, to support students in receiving a high-quality experience. Supported a small group of students as a Coach provided feedback, career advice, and assisted with goal setting for these individuals up to and after their graduation"
-    },
+        year: "2013-2014",
+        title: "Freelance - Web Developer",
+        desc: " ●	Engineered and maintained full-stack web applications using React, Node.js, and MongoDB, delivering scalable and performant solutions across multiple projects. Designed and optimized responsive user interfaces, improving cross-device usability and enhancing overall user experience. Architected and implemented RESTful APIs, enabling efficient data flow between front-end and back-end systems and improving application performance. Integrated third-party services (Google Maps, Stripe APIs) to expand application capabilities, including geolocation features and secure payment processing. Collaborated cross-functionally with designers, product managers, and developers to deliver production-ready features in agile environments. Leveraged Git-based version control and Scrum methodologies to manage codebases, streamline collaboration, and ensure consistent delivery timelines." },
     {
         id: 5,
         category: "experience",
         icon: "icon-briefcase",
+        year: "2014-2017",
+        title: "Software Development Teaching Assistant ",
+        desc: "Taught HTML, CSS, and JavaScript to classes of 20+ students, to deliver basic understanding of Front-End Web Development skills and fundamentals. Developed curriculum for students including assignments, lectures, hands on, and resource materials for HTML, CSS, JavaScript, and Java. Led study group sessions for topics such as HTML, CSS, JavaScript, Bootstrap, Java, and other frameworks, to support students in receiving a high-quality experience. Supported a small group of students as a ‘Coach’ provided feedback, career advice, and assisted with goal setting for these individuals up to and after their graduation."
+    },
+    {
+        id: 6,
+        category: "experience",
+        icon: "icon-briefcase",
         year: "2013-2014",
         title: "System Analyst",
-        desc: "Co-Developed Advanced Excel macros and business requirements in order to support software testers, and analyst teams. Managed and updated multiple projections, project health, and urgent updates in PowerPoint presentations weekly, empowering the project lead to execute meetings. Presented the weekly portfolio to the team to provide updates for Project Managers and their respective teams. Developed systems requirements within Microsoft Word defining the functional portions of the application request for DOORS Software"
-    },
+        desc: "●	Developed advanced Excel macros and automated reporting solutions, improving data analysis efficiency for QA testers and business analyst teams. Collaborated with stakeholders to gather and document business and system requirements, translating functional needs into clear technical specifications. Maintained and delivered weekly project health reports and executive presentations using PowerPoint, enabling leadership to track progress, risks, and key milestones. Presented portfolio updates to project managers and cross-functional teams, improving communication and alignment across multiple work streams. Authored detailed system requirements documentation in Microsoft Word for integration with IBM DOORS, ensuring traceability and compliance. Assisted in analyzing and validating data within Salesforce to ensure accuracy of business requirements and system outputs. Utilized Salesforce to track project requests, manage data, and support business process workflows across teams." },
 ]
 
 export default Data
