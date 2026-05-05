@@ -8,7 +8,7 @@ const Home = () => {
         <div className='intro'>
             <img src='https://i.imgur.com/NXfnhso.jpeg' alt='' className='home__img'/>
             <h1 className='home__name'>Rashad Hammonds</h1>
-            <span className='home__education'>Full-Stack Developer Feel Free to Checkout my Github!</span>
+            <span className='home__education'>IT Proffesional</span>
             <HeaderSocials />
             <a href="#contact" className='btn'>Hire Me</a>
             <ScrollDown/>
