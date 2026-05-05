@@ -22,7 +22,7 @@ const Data = [
         year: "2013-2014",
         title: "Year Up",
         desc: "Information Technology/Communications Certificate"
-    },K
+    },
     {
         id: 3,
         category: "experience",
