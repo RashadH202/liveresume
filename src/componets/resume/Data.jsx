@@ -5,7 +5,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2017-2018",
         title: "General Assembly",
-        desc: "Developed Full Stack Applications with the MVC Model using a MERN (Mongoose, Express, React, Node) Stack. Developed Dynamic single page Front End Applications using React, and Multiple CSS Frameworks. Created and Utilized Restful API’s using Express, mLab, and Heroku to deploy them for use. Collaborated on Multiple Projects using GitHub, to create, manage and update projects efficiently as a team. Developed Front-End Mockups, Wireframes, and Designs for optimal User Interface collaboratively and alone."
+        desc: "Intensive Full Stack Development Course | Certificate of Completion"
     },
     {
         id: 1,
@@ -27,7 +27,7 @@ const Data = [
         id: 3,
         category: "experience",
         icon: "icon-briefcase",
-        year: "2018-2021",
+        year: "2018-Present",
         title: "CETAT",
         desc: "Supported IT infrastructure operations, including endpoint systems, OS deployment, and system performance optimization, Managed and tracked support tickets and development tasks using Jira, ensuring timely resolution and alignment with SLA targets. Integrated workflows between Zendesk and Jira to escalate bugs and feature requests from support to engineering teams. Administered endpoint lifecycle management, including hardware upgrades, system configuration, patching, and performance optimization  Improved ticket triaging process, reducing resolution time by identifying patterns and recurring issues. Provided remote technical support using TeamViewer to diagnose and resolve hardware, software, and network issues across Windows and macOS environments. Trained end-users on basic troubleshooting and system usage during live remote sessions, improving self-service capabilities."
     },
@@ -35,7 +35,7 @@ const Data = [
         id: 4,
         category: "experience",
         icon: "icon-briefcase",
-        year: "2013-2014",
+        year: "2013-Present",
         title: "Freelance - Web Developer",
         desc: " ●	Engineered and maintained full-stack web applications using React, Node.js, and MongoDB, delivering scalable and performant solutions across multiple projects. Designed and optimized responsive user interfaces, improving cross-device usability and enhancing overall user experience. Architected and implemented RESTful APIs, enabling efficient data flow between front-end and back-end systems and improving application performance. Integrated third-party services (Google Maps, Stripe APIs) to expand application capabilities, including geolocation features and secure payment processing. Collaborated cross-functionally with designers, product managers, and developers to deliver production-ready features in agile environments. Leveraged Git-based version control and Scrum methodologies to manage codebases, streamline collaboration, and ensure consistent delivery timelines." },
     {
